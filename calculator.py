@@ -43,3 +43,5 @@ def calculator():
 
 
 calculator()
+
+/*hariish ko checkc krwate hai*/
